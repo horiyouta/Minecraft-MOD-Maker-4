@@ -25,7 +25,7 @@ Scratch のようにドラッグ&ドロップで配置します。<br>
 「 ロード 」をクリックして、.mf4 ファイルを読み込みます。<br>
 ( 生成したファイルやセーブデータは `main.exe` と同じフォルダーに出力されます )
 
-**不明な点があれば [horiyouta のプロフィール](https://scratch.mit.edu/users/horiyouta) で質問してください **
+##### 不明な点があれば [horiyouta のプロフィール](https://scratch.mit.edu/users/horiyouta) で質問してください
 
 ## バージョン履歴
 - **v1.0** - 公開
