@@ -1,4 +1,4 @@
-# Minecraft MOD Maker 4 v1.0
+# Minecraft MOD Maker 4 v1.01
 > **Minecraft MOD Maker 4** は、Scratch版スイカゲームの原作者が開発した、視覚的なUIで Scratch版マイクラ のMODを作成するためのソフトウェアです。Minecraft MOD Maker シリーズは世界中の**10万人以上**のユーザーに使用されています。
 
 ## 作った MOD は Scratch で共有！
@@ -28,4 +28,5 @@ Scratch のようにドラッグ&ドロップで配置します。<br>
 ##### 不明な点があれば [horiyouta のプロフィール](https://scratch.mit.edu/users/horiyouta) で質問してください
 
 ## バージョン履歴
-- **v1.0** - 公開
+- **2024-10-18: v1.0.1** - クラフトレシピが追加できないバグの修正
+- **2024-10-17: v1.0** - 公開
